@@ -19,6 +19,8 @@
   height: 100vh;
   color: white;
   padding: 0px 22px;
+  box-shadow: 4px 0px 23px #272a30;
+  border-radius: 22px;
 }
 .logo_box {
   display: flex;
